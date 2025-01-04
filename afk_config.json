@@ -1,0 +1,24 @@
+{
+    "movements": [
+        {
+            "key": "a",
+            "duration": 0.3,
+            "description": "Kort sv\u00e4ng v\u00e4nster"
+        },
+        {
+            "key": "d",
+            "duration": 0.3,
+            "description": "Kort sv\u00e4ng h\u00f6ger"
+        }
+    ],
+    "delay_between_moves": {
+        "min": 2.0,
+        "max": 4.0
+    },
+    "moves_per_cycle": {
+        "min": 1,
+        "max": 2
+    },
+    "pause_key": "insert",
+    "exit_key": "end"
+}
